@@ -16,6 +16,7 @@ const HeadingComponent2 = () => (
 
 const Title = () => (
     <>
+       //testing
      <h1 className="heading">Namaste React</h1>
      <HeadingComponent2 />
      <HeadingComponent2></HeadingComponent2>
